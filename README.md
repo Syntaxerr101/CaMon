@@ -3,7 +3,7 @@
 ![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/CaMon/total) [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/camm0n) ![Latest Release](https://img.shields.io/github/v/release/Syntaxerr101/CaMon)  
 
 
-## Camera Monitor
+## Camera usage monitor app
 
 Privacy tool that detects and logs which apps use your camera
 
