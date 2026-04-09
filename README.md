@@ -25,11 +25,11 @@ This app lets you see exactly who's using your camera and when.
  
 ## Features
 
-· Real-time camera usage detection
-· Logs which app accessed the camera and when
-· Shows access frequency per app
-· Search & filter history
-· Export logs to file
+- Real-time camera usage detection
+- Logs which app accessed the camera and when
+- Shows access frequency per app
+- Search & filter history
+- Export logs to file
 
 ## Permissions
 
