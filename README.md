@@ -33,9 +33,9 @@ This app lets you see exactly who's using your camera and when.
 
 ## Permissions
 
-Camera Detect camera state changes
-Usage access Identify which app is using the camera
-Notification Show monitoring is active
+- Camera: Detect camera state changes
+- Usage: access Identify which app is using the camera
+- Notification: Show monitoring is active
 
 Quick Start
 
