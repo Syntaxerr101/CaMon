@@ -17,8 +17,8 @@ This app lets you see exactly who's using your camera and when.
 ## Screenshots  
 
 <p align="center">
-  <img src="https://github.com/Syntaxerr101/CaMon/blob/main/1.png" width="46%" />
-  <img src="https://github.com/Syntaxerr101/CaMon/blob/main/2.png" width="46%" />  
+  <img src="https://github.com/Syntaxerr101/CaMon/blob/main/2.png" width="46%" />
+  <img src="https://github.com/Syntaxerr101/CaMon/blob/main/1.png" width="46%" />  
 </p>  
 <p align="center">
 
