@@ -32,7 +32,13 @@ This tool lets you see exactly who's using your camera and when.
 
 - Camera: Detect camera state changes
 - Usage: access Identify which app is using the camera
-- Notification: Show monitoring is active
+- Notification: Show monitoring service is active
+
+## Important Notes
+
+- Camera & Usage access permissions are used ONLY for monitoring camera activity. No internet permission is included - your data never leaves your device.
+- Privacy first - This tool was built for my own privacy. I expect you to use it for the same reason.
+- Known limitation - CamMon runs without root access and cannot monitor at kernel level. It does its best to detect camera usage within standard user permissions. Some events may occasionally be missed
 
 Quick Start:
 1. Install the app
@@ -40,8 +46,5 @@ Quick Start:
 3. Enable Usage access (Settings → Apps → Special access → Usage access)
 4. Toggle monitor ON
 
-## Privacy
 
-· No internet permission (logs never leave your device)
-
-made by Simo using Ai
+Made by **Simo** with the help of Ai.
