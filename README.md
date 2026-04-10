@@ -38,7 +38,7 @@ This tool lets you see exactly who's using your camera and when.
 
 - Camera & Usage access permissions are used ONLY for monitoring camera activity. No internet permission is included - your data never leaves your device.
 - Privacy first - This tool was built for my own privacy. I expect you to use it for the same reason.
-- Known limitation - CamMon runs without root access and cannot monitor at kernel level. It does its best to detect camera usage within standard user permissions. Some events may occasionally be missed
+- Known limitation - CaMon runs without root access and cannot monitor at kernel level. It does its best to detect camera usage within standard user permissions. Some events may occasionally be missed
 
 ## Quick Start
 1. Install the app
